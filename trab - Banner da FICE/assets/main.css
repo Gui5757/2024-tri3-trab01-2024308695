@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    border: 2px solid black;
+}
+
+main{
+    columns: 2;
+    padding: 10px;
+}
+
+div.titulo{
+    width: 75vw; 
+    margin: 0 auto;
+    font-weight: bold;
+}
+
+p.titulo{
+    font-size: 20px;
+}
+
+div.emails{
+    direction: rtl;
+    width: 65vw;
+}
+
+div.nomes{
+    direction: rtl;
+    width: 61vw;
+}
+
+p.emails{
+    color: rgb(71, 71, 187);
+    word-spacing: 3px;
+}
+
+.modelo_if{
+    width: 400px;
+}
+
+.modelo_fice{
+    width: 350px;
+}
+
+img.tabela1, img.tabela2{
+    width: 35vw;
+    height: 35vh;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-size: 25px;
+}
+
+p{
+    text-align: justify;
+    font-size: 15px;
+    line-height: 1.5;
+    margin: 0;
+}
+
+
+
+
